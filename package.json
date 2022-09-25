@@ -1,6 +1,6 @@
 {
   "name": "lab03-1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -16,5 +16,18 @@
     "jquery": "^3.6.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "app for comp229",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandeep180/Lab03_1.git"
+  },
+  "author": "Mandeep Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandeep180/Lab03_1/issues"
+  },
+  "homepage": "https://github.com/Mandeep180/Lab03_1#readme"
 }
